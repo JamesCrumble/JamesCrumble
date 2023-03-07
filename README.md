@@ -8,6 +8,6 @@
 
 <p>
     <a href="(https://github.com/JamesCrumble)">
-        <img width="800" height="700" alt="Git Languages" src="https://github-readme-stats.vercel.app//api//top-langs//?username=jamesCrumble&theme=dark"/>
+        <img width="800" height="450" alt="Git Languages" src="https://github-readme-stats.vercel.app//api//top-langs//?username=jamesCrumble&theme=dark"/>
     </a>
 </p>
