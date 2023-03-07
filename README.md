@@ -3,4 +3,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamesCrumble&repo=PoeBeastBotv3)](https://github.com/JamesCrumbleProduction/PoeBeastBotv3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamesCrumble&repo=AlbionFisherBot)](https://github.com/JamesCrumbleProduction/AlbionFisherBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jamesCrumbleProduction&repo=AlbionFisherBot)](https://github.com/JamesCrumbleProduction/AlbionFisherBot)
