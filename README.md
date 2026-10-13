@@ -35,7 +35,7 @@ Tested on Snapdragon 8 Elite.
 
 - [The Dark Knight Rises Bridge](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) — The Dark Knight Rises 1.1.6
 
-- [Modern Combat 4 Bridge](https://github.com/JamesCrumble/modern-combat-4-bridge) — Modern Combat 4: Zero Hour 1.1.7f
+- [Modern Combat 4 Bridge](https://github.com/JamesCrumble/modern-combat-4-bridge) — Modern Combat 4: Zero Hour 1.2.3e
 
 
 [![Shadowgun Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark)](https://github.com/JamesCrumble/shadowgun-bridge)
