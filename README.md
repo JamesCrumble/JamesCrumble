@@ -38,9 +38,9 @@ Tested on Snapdragon 8 Elite.
 - [Modern Combat 4 Bridge](https://github.com/JamesCrumble/modern-combat-4-bridge) — Modern Combat 4: Zero Hour 1.2.3e
 
 
-[![Shadowgun Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark)](https://github.com/JamesCrumble/shadowgun-bridge)
-[![NOVA3 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=NOVA3-Bridge&theme=dark)](https://github.com/JamesCrumble/NOVA3-Bridge)
-[![Mass Effect Infiltrator Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=mass-effect-infiltrator-bridge&theme=dark)](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge)
-[![Wild Blood Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=wild-blood-bridge&theme=dark)](https://github.com/JamesCrumble/wild-blood-bridge)
-[![The Dark Knight Rises Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=the-dark-knight-rises-bridge&theme=dark)](https://github.com/JamesCrumble/the-dark-knight-rises-bridge)
-[![Modern Combat 4 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=modern-combat-4-bridge&theme=dark)](https://github.com/JamesCrumble/modern-combat-4-bridge)
+[![Shadowgun Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/shadowgun-bridge)
+[![NOVA3 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=NOVA3-Bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/NOVA3-Bridge)
+[![Mass Effect Infiltrator Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=mass-effect-infiltrator-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge)
+[![Wild Blood Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=wild-blood-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/wild-blood-bridge)
+[![The Dark Knight Rises Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=the-dark-knight-rises-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/the-dark-knight-rises-bridge)
+[![Modern Combat 4 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=modern-combat-4-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/modern-combat-4-bridge)
