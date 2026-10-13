@@ -17,8 +17,8 @@ Bots and overlay plugins for Path of Exile and Albion Online.
 
 [![PoeBeastBotv3](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumbleProduction&repo=PoeBeastBotv3&theme=dark)](https://github.com/JamesCrumbleProduction/PoeBeastBotv3)
 [![AlbionFisherBot](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumbleProduction&repo=AlbionFisherBot&theme=dark)](https://github.com/JamesCrumbleProduction/AlbionFisherBot)
-[![ShareData](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=ShareData&theme=dark)](https://github.com/JamesCrumble/ShareData)
-[![POE 2 Radar](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=POE-2-Radar&theme=dark)](https://github.com/JamesCrumble/POE-2-Radar)
+[![ShareData](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=ShareData&theme=dark)](https://github.com/JamesCrumble&repo=ShareData)
+[![POE 2 Radar](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=POE-2-Radar&theme=dark)](https://github.com/JamesCrumble&repo=POE-2-Radar)
 
 ## 32-bit Android games on AArch64-only phones
 
@@ -35,9 +35,12 @@ Tested on Snapdragon 8 Elite.
 
 - [The Dark Knight Rises Bridge](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) — The Dark Knight Rises 1.1.6
 
+- [Modern Combat 4 Bridge](https://github.com/JamesCrumble/modern-combat-4-bridge) — Modern Combat 4: Zero Hour 1.1.7f
+
 
 [![Shadowgun Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark)](https://github.com/JamesCrumble/shadowgun-bridge)
 [![NOVA3 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=NOVA3-Bridge&theme=dark)](https://github.com/JamesCrumble/NOVA3-Bridge)
 [![Mass Effect Infiltrator Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=mass-effect-infiltrator-bridge&theme=dark)](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge)
 [![Wild Blood Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=wild-blood-bridge&theme=dark)](https://github.com/JamesCrumble/wild-blood-bridge)
 [![The Dark Knight Rises Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=the-dark-knight-rises-bridge&theme=dark)](https://github.com/JamesCrumble/the-dark-knight-rises-bridge)
+[![Modern Combat 4 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=modern-combat-4-bridge&theme=dark)](https://github.com/JamesCrumble/modern-combat-4-bridge)
