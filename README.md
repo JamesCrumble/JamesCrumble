@@ -1,4 +1,4 @@
-# JamesCrumble
+# James Crumble
 
 Game automation tools and plugins, and running old 32-bit Android games on 64-bit-only phones.
 
