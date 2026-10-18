@@ -1,46 +1,25 @@
-# James Crumble
+## Game ports
 
-Game automation tools and plugins, and running old 32-bit Android games on 64-bit-only phones.
+The original ARM32 game runs under a CPU emulator (patched `qemu-user` on phones, dynarmic on Windows), and its OpenGL ES calls are forwarded to the real GPU. Phone ports are tested on Snapdragon 8 Elite. No game files are included — each port needs your own copy.
 
-## Game automation and plugins
+<a href="https://github.com/JamesCrumble/NOVA3-Bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=NOVA3-Bridge&theme=dark&cache_seconds=300" alt="NOVA3 Bridge"></a>
+<a href="https://github.com/JamesCrumble/eternity-warriors-3-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=eternity-warriors-3-bridge&theme=dark&cache_seconds=300" alt="Eternity Warriors 3 Bridge"></a>
+<a href="https://github.com/JamesCrumble/shadowgun-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark&cache_seconds=300" alt="Shadowgun Bridge"></a>
+<a href="https://github.com/JamesCrumble/mass-effect-infiltrator-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=mass-effect-infiltrator-bridge&theme=dark&cache_seconds=300" alt="Mass Effect Infiltrator Bridge"></a>
 
-Bots and overlay plugins for Path of Exile and Albion Online.
+| Game | Version | Notes |
+| --- | --- | --- |
+| [N.O.V.A. 3](https://github.com/JamesCrumble/NOVA3-Bridge) | 1.0.7 | Includes a step-by-step porting guide |
+| [SHADOWGUN](https://github.com/JamesCrumble/shadowgun-bridge) | 1.7.0 | 60–90 fps |
+| [Mass Effect Infiltrator](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) | 1.0.58 | Up to 120 fps |
+| [Shadow Guardian HD](https://github.com/JamesCrumble/shadow-guardian-hd-bridge) | 1.0.1 | 60 fps, game cache read straight from the zip |
+| [Wild Blood](https://github.com/JamesCrumble/wild-blood-bridge) | 1.1.5 | |
+| [The Dark Knight Rises](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) | 1.1.6 | |
+| [Modern Combat 4: Zero Hour](https://github.com/JamesCrumble/modern-combat-4-bridge) | 1.2.3e | |
+| [Eternity Warriors 3](https://github.com/JamesCrumble/eternity-warriors-3-bridge) | 4.1.0 | Local game server, levels restored from the v0.1.0 iOS build. Windows 11 x64 for now; an Android build is planned |
 
-- [PoeBeastBotv3](https://github.com/JamesCrumbleProduction/PoeBeastBotv3) — beast bot for Path of Exile (Python)
+## Other projects
 
-- [AlbionFisherBot](https://github.com/JamesCrumbleProduction/AlbionFisherBot) — fishing bot for Albion Online (Python)
-
-- [ShareData](https://github.com/JamesCrumble/ShareData) — ExileApi plugin that serves game data over a local HTTP endpoint (C#)
-
-- [POE 2 Radar](https://github.com/JamesCrumble/POE-2-Radar) — Path of Exile 2 radar as an ExileApi plugin, forked from exApiTools/Radar (C#)
-
-
-[![PoeBeastBotv3](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumbleProduction&repo=PoeBeastBotv3&theme=dark)](https://github.com/JamesCrumbleProduction/PoeBeastBotv3)
-[![AlbionFisherBot](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumbleProduction&repo=AlbionFisherBot&theme=dark)](https://github.com/JamesCrumbleProduction/AlbionFisherBot)
-[![ShareData](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=ShareData&theme=dark)](https://github.com/JamesCrumble&repo=ShareData)
-[![POE 2 Radar](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=POE-2-Radar&theme=dark)](https://github.com/JamesCrumble&repo=POE-2-Radar)
-
-## 32-bit Android games on AArch64-only phones
-
-A patched `qemu-user` runs the original ARM32 game, and its OpenGL ES calls are forwarded to the phone's real GPU.
-Tested on Snapdragon 8 Elite.
-
-- [Shadowgun Bridge](https://github.com/JamesCrumble/shadowgun-bridge) — SHADOWGUN 1.7.0, 60–90 fps
-
-- [NOVA3 Bridge](https://github.com/JamesCrumble/NOVA3-Bridge) — N.O.V.A. 3 1.0.7
-
-- [Mass Effect Infiltrator Bridge](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) — Mass Effect Infiltrator 1.0.58, up to 120 fps
-
-- [Wild Blood Bridge](https://github.com/JamesCrumble/wild-blood-bridge) — Wild Blood 1.1.5
-
-- [The Dark Knight Rises Bridge](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) — The Dark Knight Rises 1.1.6
-
-- [Modern Combat 4 Bridge](https://github.com/JamesCrumble/modern-combat-4-bridge) — Modern Combat 4: Zero Hour 1.2.3e
-
-
-[![Shadowgun Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/shadowgun-bridge)
-[![NOVA3 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=NOVA3-Bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/NOVA3-Bridge)
-[![Mass Effect Infiltrator Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=mass-effect-infiltrator-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge)
-[![Wild Blood Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=wild-blood-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/wild-blood-bridge)
-[![The Dark Knight Rises Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=the-dark-knight-rises-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/the-dark-knight-rises-bridge)
-[![Modern Combat 4 Bridge](https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=modern-combat-4-bridge&theme=dark&cache_seconds=300)](https://github.com/JamesCrumble/modern-combat-4-bridge)
+- [fastxlsxio](https://github.com/JamesCrumble/fastxlsxio) — XLSX reading and writing for Python with a Rust core, `pip install fastxlsxio`
+- Path of Exile: [PoeBeastBotv3](https://github.com/JamesCrumbleProduction/PoeBeastBotv3) (bot, Python) · [ShareData](https://github.com/JamesCrumble/ShareData) and [POE 2 Radar](https://github.com/JamesCrumble/POE-2-Radar) (ExileApi plugins, C#)
+- Albion Online: [AlbionFisherBot](https://github.com/JamesCrumbleProduction/AlbionFisherBot) (fishing bot, Python)
