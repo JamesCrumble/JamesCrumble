@@ -1,25 +1,35 @@
+Libraries, tooling and automation in Python, Rust and C#.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [fastxlsxio](https://github.com/JamesCrumble/fastxlsxio) | Fast XLSX reading and writing for Python with a Rust core, `pip install fastxlsxio` ![PyPI](https://img.shields.io/pypi/v/fastxlsxio?style=flat-square) |
+| [PoeBeastBotv3](https://github.com/JamesCrumbleProduction/PoeBeastBotv3) | Path of Exile bot (Python) |
+| [ShareData](https://github.com/JamesCrumble/ShareData) | Path of Exile data sharing plugin for ExileApi (C#) |
+| [PoeZoomEditorPlugin](https://github.com/JamesCrumble/PoeZoomEditorPlugin) | Camera zoom plugin for ExileApi (C#) |
+
+## Open source contributions
+
+| Pull request | Change | Status |
+| --- | --- | --- |
+| [ClickHouse/clickhouse-connect#1095](https://github.com/ClickHouse/clickhouse-connect/pull/1095) | The Rust codec serves ambient-timezone `DateTime` queries instead of falling back to Python | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
+| [jellyfin/jellyfin-androidtv#5921](https://github.com/jellyfin/jellyfin-androidtv/pull/5921) | Folder browsing for the Android TV client, grouping of new items in the home screen channels | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
+
 ## Game ports
 
-The original ARM32 game runs under a CPU emulator (patched `qemu-user` on phones, dynarmic on Windows), and its OpenGL ES calls are forwarded to the real GPU. Phone ports are tested on Snapdragon 8 Elite. No game files are included — each port needs your own copy.
+32-bit Android games on 64-bit-only phones and on Windows: a patched `qemu-user` (dynarmic on Windows) with OpenGL ES forwarded to the real GPU. Written with Claude Code: roughly half of the code in the early ports, almost all of it in the later ones. No game files are included for licensing reasons, so you need your own copy.
 
-<a href="https://github.com/JamesCrumble/NOVA3-Bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=NOVA3-Bridge&theme=dark&cache_seconds=300" alt="NOVA3 Bridge"></a>
-<a href="https://github.com/JamesCrumble/eternity-warriors-3-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=eternity-warriors-3-bridge&theme=dark&cache_seconds=300" alt="Eternity Warriors 3 Bridge"></a>
-<a href="https://github.com/JamesCrumble/shadowgun-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=shadowgun-bridge&theme=dark&cache_seconds=300" alt="Shadowgun Bridge"></a>
-<a href="https://github.com/JamesCrumble/mass-effect-infiltrator-bridge"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCrumble&repo=mass-effect-infiltrator-bridge&theme=dark&cache_seconds=300" alt="Mass Effect Infiltrator Bridge"></a>
-
-| Game | Version | Notes |
+| Game | Result | Downloads |
 | --- | --- | --- |
-| [N.O.V.A. 3](https://github.com/JamesCrumble/NOVA3-Bridge) | 1.0.7 | Includes a step-by-step porting guide |
-| [SHADOWGUN](https://github.com/JamesCrumble/shadowgun-bridge) | 1.7.0 | 60–90 fps |
-| [Mass Effect Infiltrator](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) | 1.0.58 | Up to 120 fps |
-| [Shadow Guardian HD](https://github.com/JamesCrumble/shadow-guardian-hd-bridge) | 1.0.1 | 60 fps, game cache read straight from the zip |
-| [Wild Blood](https://github.com/JamesCrumble/wild-blood-bridge) | 1.1.5 | |
-| [The Dark Knight Rises](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) | 1.1.6 | |
-| [Modern Combat 4: Zero Hour](https://github.com/JamesCrumble/modern-combat-4-bridge) | 1.2.3e | |
-| [Eternity Warriors 3](https://github.com/JamesCrumble/eternity-warriors-3-bridge) | 4.1.0 | Local game server, levels restored from the v0.1.0 iOS build. Windows 11 x64 for now; an Android build is planned |
+| [Mass Effect Infiltrator](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) | Up to 120 fps | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/mass-effect-infiltrator-bridge/total?style=flat-square&color=blue&label=) |
+| [N.O.V.A. 3](https://github.com/JamesCrumble/NOVA3-Bridge) | With a porting guide | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/NOVA3-Bridge/total?style=flat-square&color=blue&label=) |
+| [Modern Combat 4](https://github.com/JamesCrumble/modern-combat-4-bridge) | Zero Hour 1.2.3e | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-4-bridge/total?style=flat-square&color=blue&label=) |
+| [SHADOWGUN](https://github.com/JamesCrumble/shadowgun-bridge) | 60–90 fps | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/shadowgun-bridge/total?style=flat-square&color=blue&label=) |
 
-## Other projects
-
-- [fastxlsxio](https://github.com/JamesCrumble/fastxlsxio) — XLSX reading and writing for Python with a Rust core, `pip install fastxlsxio`
-- Path of Exile: [PoeBeastBotv3](https://github.com/JamesCrumbleProduction/PoeBeastBotv3) (bot, Python) · [ShareData](https://github.com/JamesCrumble/ShareData) and [POE 2 Radar](https://github.com/JamesCrumble/POE-2-Radar) (ExileApi plugins, C#)
-- Albion Online: [AlbionFisherBot](https://github.com/JamesCrumbleProduction/AlbionFisherBot) (fishing bot, Python)
+[More ports](https://github.com/JamesCrumble?tab=repositories&q=bridge)
