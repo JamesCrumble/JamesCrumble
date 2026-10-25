@@ -9,7 +9,7 @@ Libraries, tooling and automation in Python, Rust and C#.
 
 | Project | What it is |
 | --- | --- |
-| [fastxlsxio](https://github.com/JamesCrumble/fastxlsxio) | Fast XLSX reading and writing for Python with a Rust core, `pip install fastxlsxio` ![PyPI](https://img.shields.io/pypi/v/fastxlsxio?style=flat-square) |
+| [fastxlsxio](https://github.com/JamesCrumble/fastxlsxio) | Fast XLSX reading and writing for Python with a Rust core  ![PyPI](https://img.shields.io/pypi/v/fastxlsxio?style=flat-square) |
 | [PoeBeastBotv3](https://github.com/JamesCrumbleProduction/PoeBeastBotv3) | Path of Exile bot (Python) |
 | [ShareData](https://github.com/JamesCrumble/ShareData) | Path of Exile data sharing plugin for ExileApi (C#) |
 | [PoeZoomEditorPlugin](https://github.com/JamesCrumble/PoeZoomEditorPlugin) | Camera zoom plugin for ExileApi (C#) |
