@@ -19,7 +19,7 @@ Libraries, tooling and automation in Python, Rust and C#.
 | Pull request | Change | Status |
 | --- | --- | --- |
 | [ClickHouse/clickhouse-connect#1095](https://github.com/ClickHouse/clickhouse-connect/pull/1095) | The Rust codec serves ambient-timezone `DateTime` queries instead of falling back to Python | ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square) |
-| [jellyfin/jellyfin-androidtv#5921](https://github.com/jellyfin/jellyfin-androidtv/pull/5921) | Folder browsing for the Android TV client, grouping of new items in the home screen channels | ![open](https://img.shields.io/badge/open-2ea44f?style=flat-square) |
+| ~~[jellyfin/jellyfin-androidtv#5921](https://github.com/jellyfin/jellyfin-androidtv/pull/5921)~~ | ~~Folder browsing for the Android TV client, grouping of new items in the home screen channels~~ | ~~![open](https://img.shields.io/badge/open-2ea44f?style=flat-square)~~ |
 
 ## Game ports
 
