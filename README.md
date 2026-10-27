@@ -25,11 +25,29 @@ Libraries, tooling and automation in Python, Rust and C#.
 
 32-bit Android games on 64-bit-only phones and on Windows: a patched `qemu-user` (dynarmic on Windows) with OpenGL ES forwarded to the real GPU. Written with Claude Code: roughly half of the code in the early ports, almost all of it in the later ones. No game files are included for licensing reasons, so you need your own copy.
 
-| Game | Result | Downloads |
-| --- | --- | --- |
-| [Mass Effect Infiltrator](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) | Up to 120 fps | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/mass-effect-infiltrator-bridge/total?style=flat-square&color=blue&label=) |
-| [N.O.V.A. 3](https://github.com/JamesCrumble/NOVA3-Bridge) | With a porting guide | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/NOVA3-Bridge/total?style=flat-square&color=blue&label=) |
-| [Modern Combat 4](https://github.com/JamesCrumble/modern-combat-4-bridge) | Zero Hour 1.2.3e | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-4-bridge/total?style=flat-square&color=blue&label=) |
-| [SHADOWGUN](https://github.com/JamesCrumble/shadowgun-bridge) | 60–90 fps | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/shadowgun-bridge/total?style=flat-square&color=blue&label=) |
+<table>
+<tr>
+<td valign="top">
 
-[More ports](https://github.com/JamesCrumble?tab=repositories&q=bridge)
+| Game | Release | Downloads |
+| --- | --- | --- |
+| [Mass Effect Infiltrator](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/mass-effect-infiltrator-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/mass-effect-infiltrator-bridge/total?style=flat-square&color=blue&label=) |
+| [N.O.V.A. 3](https://github.com/JamesCrumble/NOVA3-Bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/NOVA3-Bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/NOVA3-Bridge/total?style=flat-square&color=blue&label=) |
+| [Modern Combat 4](https://github.com/JamesCrumble/modern-combat-4-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-4-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-4-bridge/total?style=flat-square&color=blue&label=) |
+| [SHADOWGUN](https://github.com/JamesCrumble/shadowgun-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/shadowgun-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/shadowgun-bridge/total?style=flat-square&color=blue&label=) |
+| [Modern Combat 3](https://github.com/JamesCrumble/modern-combat-3-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-3-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-3-bridge/total?style=flat-square&color=blue&label=) |
+
+</td>
+<td valign="top">
+
+| Game | Release | Downloads |
+| --- | --- | --- |
+| [The Dark Knight Rises](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/the-dark-knight-rises-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/the-dark-knight-rises-bridge/total?style=flat-square&color=blue&label=) |
+| [Shadow Guardian HD](https://github.com/JamesCrumble/shadow-guardian-hd-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/shadow-guardian-hd-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/shadow-guardian-hd-bridge/total?style=flat-square&color=blue&label=) |
+| [Wild Blood](https://github.com/JamesCrumble/wild-blood-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/wild-blood-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/wild-blood-bridge/total?style=flat-square&color=blue&label=) |
+| [Eternity Warriors 2](https://github.com/JamesCrumble/eternity-warriors-2-bridge) | ![in progress](https://img.shields.io/badge/in%20progress-e3b341?style=flat-square) | — |
+| [Eternity Warriors 3](https://github.com/JamesCrumble/eternity-warriors-3-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/eternity-warriors-3-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/eternity-warriors-3-bridge/total?style=flat-square&color=blue&label=) |
+
+</td>
+</tr>
+</table>
