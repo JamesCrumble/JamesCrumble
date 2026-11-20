@@ -31,11 +31,12 @@ Libraries, tooling and automation in Python, Rust and C#.
 
 | Game | Release | Downloads |
 | --- | --- | --- |
+| [Modern Combat 5](https://github.com/JamesCrumble/modern-combat-5-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-5-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-5-bridge/total?style=flat-square&color=blue&label=) |
+| [Modern Combat 4](https://github.com/JamesCrumble/modern-combat-4-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-4-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-4-bridge/total?style=flat-square&color=blue&label=) |
+| [Modern Combat 3](https://github.com/JamesCrumble/modern-combat-3-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-3-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-3-bridge/total?style=flat-square&color=blue&label=) |
 | [Mass Effect Infiltrator](https://github.com/JamesCrumble/mass-effect-infiltrator-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/mass-effect-infiltrator-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/mass-effect-infiltrator-bridge/total?style=flat-square&color=blue&label=) |
 | [N.O.V.A. 3](https://github.com/JamesCrumble/NOVA3-Bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/NOVA3-Bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/NOVA3-Bridge/total?style=flat-square&color=blue&label=) |
-| [Modern Combat 4](https://github.com/JamesCrumble/modern-combat-4-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-4-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-4-bridge/total?style=flat-square&color=blue&label=) |
 | [SHADOWGUN](https://github.com/JamesCrumble/shadowgun-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/shadowgun-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/shadowgun-bridge/total?style=flat-square&color=blue&label=) |
-| [Modern Combat 3](https://github.com/JamesCrumble/modern-combat-3-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/modern-combat-3-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/modern-combat-3-bridge/total?style=flat-square&color=blue&label=) |
 
 </td>
 <td valign="top">
@@ -45,8 +46,8 @@ Libraries, tooling and automation in Python, Rust and C#.
 | [The Dark Knight Rises](https://github.com/JamesCrumble/the-dark-knight-rises-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/the-dark-knight-rises-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/the-dark-knight-rises-bridge/total?style=flat-square&color=blue&label=) |
 | [Shadow Guardian HD](https://github.com/JamesCrumble/shadow-guardian-hd-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/shadow-guardian-hd-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/shadow-guardian-hd-bridge/total?style=flat-square&color=blue&label=) |
 | [Wild Blood](https://github.com/JamesCrumble/wild-blood-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/wild-blood-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/wild-blood-bridge/total?style=flat-square&color=blue&label=) |
-| [Eternity Warriors 2](https://github.com/JamesCrumble/eternity-warriors-2-bridge) | ![in progress](https://img.shields.io/badge/in%20progress-e3b341?style=flat-square) | — |
 | [Eternity Warriors 3](https://github.com/JamesCrumble/eternity-warriors-3-bridge) | ![release](https://img.shields.io/github/v/release/JamesCrumble/eternity-warriors-3-bridge?style=flat-square&label=) | ![downloads](https://img.shields.io/github/downloads/JamesCrumble/eternity-warriors-3-bridge/total?style=flat-square&color=blue&label=) |
+| [Eternity Warriors 2](https://github.com/JamesCrumble/eternity-warriors-2-bridge) | ![in progress](https://img.shields.io/badge/in%20progress-e3b341?style=flat-square) | — |
 
 </td>
 </tr>
